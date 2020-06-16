@@ -1,5 +1,5 @@
 namespace Costum {
-    //  Add your code here
+    // % block
     export function Print(x: any) {
         console.log(x)
     }

@@ -1,3 +1,3 @@
-# Add your code here
+#% block
 def Print(x):
     print(x)
