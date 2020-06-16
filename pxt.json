@@ -14,7 +14,8 @@
         "Costum.ts",
         "H.ts",
         "main.py",
-        "Mo.json"
+        "Mo.json",
+        "Why.md"
     ],
     "testFiles": [
         "test.ts"
