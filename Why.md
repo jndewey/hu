@@ -1,6 +1,8 @@
-# Why
+# emoji
 
-## smaller
+#### emoji
+💕,❤️,😏,👀,😍
 
-### even smaller *bold text*
+#### italic emoji 
+* 💕,❤️,😏,👀,😍 * 
 
