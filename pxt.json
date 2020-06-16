@@ -12,7 +12,9 @@
         "main.ts",
         "Costum.py",
         "Costum.ts",
-        "H.ts"
+        "H.ts",
+        "main.py",
+        "Mo.json"
     ],
     "testFiles": [
         "test.ts"
